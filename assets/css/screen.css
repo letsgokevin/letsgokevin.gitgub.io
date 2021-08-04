@@ -711,7 +711,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: NanumSquareRoundR, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: NanumSquareRoundR, -apple-system, NanumSquareRoundR, "Segoe UI", NanumSquareRoundR, "Helvetica Neue", NanumSquareRoundR, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-size: 1rem;
 }
 
